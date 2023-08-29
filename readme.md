@@ -29,3 +29,9 @@ $ ./RodaNoServer.sh
 $ npm install
 $ node index.js
 ```
+
+# Observação:
+
+Este repositório é um `fork` do repositório original, que possui features para conexão com o Telegram, enquanto este é aplicado a um estudo de caso diferente do original
+
+Repositório original: https://github.com/JulionBR/Primeiro_bot_telegram
